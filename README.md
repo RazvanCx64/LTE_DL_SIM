@@ -1,0 +1,2 @@
+# Simulation_of_LTE_DOWNLINK_THROUGHTPUT_DIF_MOD_SCH_MATLAB_CODE
+Matlab Code for a simulation
